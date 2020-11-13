@@ -6,5 +6,5 @@ Creates a highly interactive dashboard to monitor project progress including Emp
 Also shows project heirarchy and reporting stats alongside with a detailed analysis of Time-division on a project with Crafts clocking overtime. This allows generation of actionable insights for the user.
 
 #### Screenshots
-![Landing page](assets/Screenshot 2020-11-13 114528.jpg "Landing page")
+![Alt text](./assets/Screenshot 2020-11-13 114528.jpg "Landing page")
 
